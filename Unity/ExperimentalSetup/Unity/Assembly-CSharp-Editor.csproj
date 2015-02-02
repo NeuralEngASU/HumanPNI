@@ -75,7 +75,7 @@
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>D:/CodeRepo/ExperimentalSetup/Unity/Assets/Plugins1/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>D:/CodeRepo/HumanPNI/Unity/ExperimentalSetup/Unity/Assets/Plugins1/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
